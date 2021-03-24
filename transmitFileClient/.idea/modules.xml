@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transmitFileClient.iml" filepath="$PROJECT_DIR$/.idea/modules/transmitFileClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transmitFileClient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/transmitFileClient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transmitFileClient.test.iml" filepath="$PROJECT_DIR$/.idea/modules/transmitFileClient.test.iml" />
+    </modules>
+  </component>
+</project>
