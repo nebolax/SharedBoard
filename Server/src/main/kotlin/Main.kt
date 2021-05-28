@@ -84,7 +84,7 @@ object Mailer {
 fun accept_new_clients(serv: ServerSocket) {
     while (true) {
         val sock = serv.accept()
-        emit(NewCLient(sock))
+        emit(New    CLient(sock))
     }
 }
 
